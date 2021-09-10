@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Love Chemistry</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="menu_home">Home</string>
+    <string name="menu_gallery">Gallery</string>
+    <string name="menu_slideshow">Slideshow</string>
+
+    <string name="menu_review">Ôn tập theo chủ đề</string>
+    <string name="menu_test">Thi thử</string>
+    <string name="menu_rank">Bảng xếp hạng</string>
+    <string name="menu_setting">Cài đặt</string>
+    <string name="menu_trick">Mẹo</string>
+    <string name="menu_fun">Fun fact</string>
+</resources>

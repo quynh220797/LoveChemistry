@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_home"
+            android:icon="@drawable/ic_baseline_format_list_numbered_rtl_24"
+            android:title="@string/menu_review" />
+        <item
+            android:id="@+id/nav_gallery"
+            android:icon="@drawable/ic_baseline_edit_note_24"
+            android:title="@string/menu_test" />
+
+    </group>
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_trick"
+            android:icon="@drawable/ic_baseline_child_care_24"
+            android:title="@string/menu_trick" />
+        <item
+            android:id="@+id/nav_fun"
+            android:icon="@drawable/ic_baseline_cruelty_free_24"
+            android:title="@string/menu_fun" />
+    </group>
+
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_setting"
+            android:icon="@drawable/ic_baseline_settings_24"
+            android:title="@string/menu_setting" />
+    </group>
+</menu>
